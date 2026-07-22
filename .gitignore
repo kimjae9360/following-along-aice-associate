@@ -1,0 +1,17 @@
+# AICE_Simulator는 별도 프로젝트 (zip으로 따로 배포) - 이 저장소에는 포함하지 않음
+AICE_Simulator/
+
+# 파이썬 가상환경
+.aice/
+.venv/
+venv/
+
+# 파이썬/주피터 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# 노트북 실행 중 생기는 임시 산출물
+*.h5
+*.pkl
