@@ -1,6 +1,3 @@
-# AICE_Simulator는 별도 프로젝트 (zip으로 따로 배포) - 이 저장소에는 포함하지 않음
-AICE_Simulator/
-
 # 파이썬 가상환경
 .aice/
 .venv/
