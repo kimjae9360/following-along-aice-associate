@@ -1,0 +1,38 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "김민준",
+    "address": {
+      "city": "서울",
+      "zipcode": "04524"
+    },
+    "age": 34
+  },
+  {
+    "customer_id": "C002",
+    "name": "이서연",
+    "address": {
+      "city": "부산",
+      "zipcode": "48058"
+    },
+    "age": 28
+  },
+  {
+    "customer_id": "C003",
+    "name": "박도윤",
+    "address": {
+      "city": "대구",
+      "zipcode": "41911"
+    },
+    "age": 45
+  },
+  {
+    "customer_id": "C004",
+    "name": "최지우",
+    "address": {
+      "city": "인천",
+      "zipcode": "21554"
+    },
+    "age": 22
+  }
+]
